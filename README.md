@@ -11,14 +11,10 @@ Hey there! I'm currently an undergraduate student at Swinburne University of Tec
 <hr></hr>
 
 <div align="center">
-	<figure>
-		<img src="https://raw.githubusercontent.com/jaredlandau/astroDR8/main/2022-12-19-1310_3-U-RGB-Mars_pipp_lapl6_ap68_WD_pipp_defieldrotated.gif" alt="drawing" width="300"/>
-		<figcaption><i>~1hr timelapse of Mars' rotation, captured on the 20th of December, 2022.</i></figcaption>
-	</figure>
-	<figure>
-		<img src="https://raw.githubusercontent.com/jaredlandau/jaredlandau/main/planets-2022.png" alt="drawing" width="750"/>
-		<figcaption><i>Compilation of my best planetary images taken during 2022 - apparent sizes are to scale.</i></figcaption>
-	</figure>
+	<img src="https://raw.githubusercontent.com/jaredlandau/astroDR8/main/2022-12-19-1310_3-U-RGB-Mars_pipp_lapl6_ap68_WD_pipp_defieldrotated.gif" alt="drawing" width="300"/>
+	<p><i>~1hr timelapse of Mars' rotation, captured on the 20th of December, 2022.</i></p>
+	<img src="https://raw.githubusercontent.com/jaredlandau/jaredlandau/main/planets-2022.png" alt="drawing" width="750"/>
+	<p><i>Compilation of my best planetary images taken during 2022 - apparent sizes are to scale.</i></p>
 </div>
 
 ## 📫  Reach me on:
