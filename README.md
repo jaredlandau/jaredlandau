@@ -13,7 +13,7 @@ Hey there! I'm currently an undergraduate student at Swinburne University of Tec
 <div align="center">
 	<img src="https://raw.githubusercontent.com/jaredlandau/AstroDR8/main/example-gifs/2022-12-19-1310_3-U-RGB-Mars_pipp_lapl6_ap68_WD_pipp_defieldrotated.gif" alt="drawing" width="300"/>
 	<p><i>~1hr timelapse of Mars' rotation, captured on the 20th of December, 2022.</i></p>
-	<img src="https://raw.githubusercontent.com/jaredlandau/jaredlandau/main/planets-2022.png" alt="drawing" width="750"/>
+	<img src="https://raw.githubusercontent.com/jaredlandau/AstroDR8/main/example-gifs/2022-12-19-1310_3-U-RGB-Mars_derotated.gif" alt="drawing" width="750"/>
 	<p><i>Compilation of my best planetary images taken during 2022 - apparent sizes are to scale.</i></p>
 </div>
 
