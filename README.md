@@ -6,7 +6,6 @@ Hey there! I'm currently an undergraduate student at Swinburne University of Tec
 * 💻 Currently building my skills in C and C++
 * 🛠️ Passionate about engineering, astronomy, physics, and science communication
 * 🪐 Amateur astrophotographer, primarily focused on the planets and their moons
-* 🍛 Love both cooking and baking (especially when I've got the time!)
 
 <hr></hr>
 
