@@ -1,11 +1,7 @@
 ## Jared Landau
-Hey there! I'm currently an undergraduate student at Swinburne University of Technology, pursuing a Bachelor of Computer Science.
+Final-year undergraduate at Swinburne University of Technology, studying a Bachelor of Computer Science (with a minor in Physics).
 
-## About me:
-* 🌍 Born and raised in Melbourne, Australia
-* 💻 Currently building my skills in C and C++
-* 🛠️ Passionate about engineering, astronomy, physics, and science communication
-* 🪐 Amateur astrophotographer, primarily focused on the planets and their moons
+Passionate amateur astronomer, looking to pursue physics-based research opportunities prior to commencing my honours year.
 
 <hr></hr>
 
