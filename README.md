@@ -1,7 +1,7 @@
 ## Jared Landau
-Final-year undergraduate at Swinburne University of Technology, studying a Bachelor of Computer Science (with a minor in Physics).
+Research Honours student at Monash University, studying a Bachelor of Science with a major in Astrophysics.
 
-Passionate amateur astronomer, looking to pursue physics-based research opportunities prior to commencing my honours year.
+Graduated with a Bachelor of Computer Science (minor in Physics) from Swinburne University of Technology in 2024.
 
 <hr></hr>
 
