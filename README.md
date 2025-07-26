@@ -1,5 +1,5 @@
 ## Jared Landau
-Research Honours student at Monash University, studying a Bachelor of Science with a major in Astrophysics.
+I'm an astrophysics research honours student at Monash University, studying the stratigraphy of Gale Crater on Mars using HiRISE image datasets. Aside from my studies, I'm also Chief Executive Officer at Monash Nova Rover, developing simulation Lunar and Mars rovers that compete internationally.
 
 Graduated with a Bachelor of Computer Science (minor in Physics) from Swinburne University of Technology in 2024.
 
